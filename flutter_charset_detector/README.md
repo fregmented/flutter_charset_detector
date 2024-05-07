@@ -34,6 +34,16 @@ underlying library; for specifics see:
 - [Android](https://github.com/albfernandez/juniversalchardet/blob/v2.4.0/README.md#encodings-that-can-be-detected)
 - [Web](https://github.com/aadsm/jschardet/blob/v3.1.0/README.md#supported-charsets)
 
+## Installation
+### Web
+Add this line for load library
+
+```html
+  <script type="application/javascript"
+          src="/assets/packages/flutter_charset_detector_web/assets/web/jschardet.min.js" defer>
+  </script>
+```
+
 ## Usage
 
 ```dart
