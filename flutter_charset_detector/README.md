@@ -36,7 +36,7 @@ underlying library; for specifics see:
 
 ## Installation
 ### Web
-Add this line for load library
+Add this line to web/index.html for load library
 
 ```html
   <script type="application/javascript"
